@@ -3,14 +3,9 @@
 
 <h2>🕸️ Course Websites</h2>
 <p>
-  <a href="https://sites.google.com/ocsb.ca/icd/icd20">ICD2O</a>
+  <a href="https://sites.google.com/ocsb.ca/icd/home">ICD2O</a>
   <a href="https://sites.google.com/ocsb.ca/teh-ics3ur">ICS3U</a>
   <a href="https://sites.google.com/ocsb.ca/teh-ics4ur">ICS4U</a>
-</p>
-<p>
-  <a href="https://sites.google.com/ocsb.ca/teh-tej2or">TEJ2O</a>
-  <a href="https://sites.google.com/ocsb.ca/teh-tej3m1">TEJ3M</a>
-  <a href="https://sites.google.com/ocsb.ca/teh-tej4m1">TEJ4M</a>
 </p>
 
 <h2>✍ Programming Languages</h2>
