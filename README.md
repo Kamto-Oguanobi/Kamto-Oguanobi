@@ -1,9 +1,9 @@
 <h1>Hi there 👋</h1>
-<p>My name is Kamto Oguanobi and I'm a grade 10 student Taking a Digital Technology and Innovations in the Changing World at <a href="https://shh.ocsb.ca/">Sacred Heart Highschool</a>, Ottawa, Canada.</p>
+<p>My name is Kamto Oguanobi, and I am a grade 10 student taking Mr. Atkinson's Digital Technology and Innovations in the Changing World class at <a href="https://shh.ocsb.ca/">Sacred Heart Highschool</a>, Ottawa, Canada.</p>
 
 <h2>🕸️ Course Websites</h2>
 <p>
-  <a href="https://sites.google.com/ocsb.ca/teh-icd2or">ICD2O</a>
+  <a href="https://sites.google.com/ocsb.ca/icd/icd20">ICD2O</a>
   <a href="https://sites.google.com/ocsb.ca/teh-ics3ur">ICS3U</a>
   <a href="https://sites.google.com/ocsb.ca/teh-ics4ur">ICS4U</a>
 </p>
