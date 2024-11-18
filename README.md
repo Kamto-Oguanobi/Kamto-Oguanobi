@@ -26,10 +26,10 @@
 
 <h2>Operating Systems</h2>
 <p>
-  <a href="https://www.google.com/intl/en_ca/chromebook/chrome-os/"><img src="https://img.shields.io/badge/chrome%20os-3d89fc?logo=google%20chrome&logoColor=white" alt="ChromeOS"></a>
-  <a href="https://www.apple.com/ca/macos/"><img src="https://img.shields.io/badge/mac%20os-000000?logo=macos&logoColor=white" alt="Mac OS"></a>
-  <a href="https://www.microsoft.com/en-ca/windows/"><img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" alt="Windows"></a>
-  <a href="https://www.apple.com/ca/ios/"><img src="https://img.shields.io/badge/iOS-000000?logo=ios&logoColor=white" alt="iOS"></a>
+     <a href="https://github.com/search?q=user%3AKamto-Oguanobi+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"></a>
+     <a href="https://github.com/search?q=user%3AKamto-Oguanobi+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
+     <a href="https://github.com/search?q=user%3AKamto-Oguanobi+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white"></a>
+     <a href="https://github.com/search?q=user%3AKamto-Oguanobi+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"></a>
 </p>
 
 <h2>Games</h2>
