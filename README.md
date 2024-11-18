@@ -20,7 +20,7 @@
   <a href="https://github.com/search?q=user%3AKamto-Oguanobi+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3AKamto-Oguanobi+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"></a>
   <a href="https://github.com/search?q=user%3AKamto-Oguanobi+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3AKamto-Oguanobi+language%3Abash"><img alt="Bash" src="	https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3AKamto-Oguanobi+language%3Abash"><img alt="Bash" src="	https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3AKamto-Oguanobi+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/tinkercad-1477D1?style=for-the-badge&logo=tinkercad&logoColor=white"></a>
 </p>
 
