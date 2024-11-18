@@ -36,10 +36,10 @@
 <p>
   <a href="https://github.com/search?q=user%3AKamto-Oguanobi+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3AKamto-Oguanobi+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/FIFA-B7312F?style=for-the-badge&logo=fifa&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3AKamto-Oguanobi+language%3Abash"><img alt="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3AKamto-Oguanobi+language%3Abash"><img alt="https://img.shields.io/badge/Origin-F56C2D?style=for-the-badge&logo=origin&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3AKamto-Oguanobi+language%3Abash"><img alt="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3AKamto-Oguanobi+language%3Abash"><img alt="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3AKamto-Oguanobi+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3AKamto-Oguanobi+language%3Abash"><img alt="Bash" src=""></a>
+  <a href="https://github.com/search?q=user%3AKamto-Oguanobi+language%3Abash"><img alt="Bash" src=""></a>
+  <a href="https://github.com/search?q=user%3AKamto-Oguanobi+language%3Abash"><img alt="Bash" src=""></a>
 </p>
 
 ## 🔧 Tools
