@@ -1,5 +1,5 @@
 <h1>Hi there 👋</h1>
-<p>My name is Kamto Oguanobi and I'm a grade 10 student in the Computer Science class at <a href="https://shh.ocsb.ca/">Sacred Heart Highschool</a>, Ottawa, Canada.</p>
+<p>My name is Kamto Oguanobi and I'm a grade 10 student Taking a Digital Technology and Innovations in the Changing World at <a href="https://shh.ocsb.ca/">Sacred Heart Highschool</a>, Ottawa, Canada.</p>
 
 <h2>🕸️ Course Websites</h2>
 <p>
