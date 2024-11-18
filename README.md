@@ -12,6 +12,7 @@
   <a href="https://github.com/search?q=user%3AKamto-Oguanobi+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3AKamto-Oguanobi+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3AKamto-Oguanobi+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3AKamto-Oguanobi+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white"></a>
 </p>
 
 <h2>💻 Operating Systems</h2>
